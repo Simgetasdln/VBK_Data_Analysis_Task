@@ -14,5 +14,7 @@ RandomForest modeli, genel doğruluk (accuracy) açısından %81 gibi yüksek bi
 
 Bu süreçte öğrenilenler:
 -Veri ön işleme (eksik verilerin doldurulması, kategorik değişkenlerin kodlanması, sayısal verilerin ölçeklendirilmesi) model performansını doğrudan etkiler.
+
 -Veri dengesizliği, modelin bazı sınıflarda daha zayıf tahmin yapmasına neden olabilir.
+
 -Uygun model seçimi ve hiperparametre ayarlamaları, tahmin başarısını artırmada kritik rol oynar.
