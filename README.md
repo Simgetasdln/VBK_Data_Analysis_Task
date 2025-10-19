@@ -12,7 +12,7 @@ Kategorik Değişkenler:Order ID, Order Date, Ship Date, Ship Mode, Customer ID,
 # Sonuç
 RandomForest modeli, genel doğruluk (accuracy) açısından %81 gibi yüksek bir performans sergilemiştir. Office Supplies kategorisindeki ürünler neredeyse tamamen doğru tahmin edilirken, Furniture ve Technology kategorilerinde recall değerleri daha düşüktür yani model bazı ürünleri doğru sınıflandıramamıştır. Bu durum, modelin daha çok veri içeren sınıflarda daha iyi performans sergilediğini, küçük sınıflarda ise eksik kaldığını gösteriyor.
 
-Bu süreçten öğrenilenler:
+Bu süreçte öğrenilenler:
 -Veri ön işleme (eksik verilerin doldurulması, kategorik değişkenlerin kodlanması, sayısal verilerin ölçeklendirilmesi) model performansını doğrudan etkiler.
 -Veri dengesizliği, modelin bazı sınıflarda daha zayıf tahmin yapmasına neden olabilir.
 -Uygun model seçimi ve hiperparametre ayarlamaları, tahmin başarısını artırmada kritik rol oynar.
